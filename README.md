@@ -1,5 +1,6 @@
 # TypeScript Node Starter
 Local : [![Build Status](https://travis-ci.org/sidzan/typescript-node-boilerplate.svg?branch=master)](https://travis-ci.org/sidzan/typescript-node-boilerplate)
+[![Dependency Status](https://david-dm.org/Microsoft/TypeScript-Node-Starter.svg)](https://david-dm.org/Microsoft/TypeScript-Node-Starter) [![Build Status](https://travis-ci.org/Microsoft/TypeScript-Node-Starter.svg?branch=master)](https://travis-ci.org/Microsoft/TypeScript-Node-Starter) [![Greenkeeper badge](https://badges.greenkeeper.io/sidzan/typescript-node-boilerplate.svg)](https://greenkeeper.io/) 
 
 **Microsoft** :  [![Dependency Status](https://david-dm.org/Microsoft/TypeScript-Node-Starter.svg)](https://david-dm.org/Microsoft/TypeScript-Node-Starter) [![Build Status](https://travis-ci.org/Microsoft/TypeScript-Node-Starter.svg?branch=master)](https://travis-ci.org/Microsoft/TypeScript-Node-Starter) 
 
