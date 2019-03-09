@@ -8,7 +8,35 @@
   },
   "author": "Sijan <sijanshrestha2@gmail.com>",
   "license": "MIT",
+  "config": {
+    "validate-commit-msg": {
+      "types": [
+        "build",
+        "chore",
+        "ci",
+        "cleanup",
+        "docs",
+        "feat",
+        "fix",
+        "followup",
+        "improve",
+        "perf",
+        "refactor",
+        "revert",
+        "style",
+        "test",
+        "unfeat"
+      ]
+    }
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run lint"
+    }
+  },
   "scripts": {
+    "commitmsg": "validate-commit-msg",
+    "prepush": "npm run build && npm run server && npm run test:no-cache",
     "start": "npm run serve",
     "build": "npm run build-sass && npm run build-ts && npm run tslint && npm run copy-static-assets",
     "serve": "node dist/server.js",
@@ -90,6 +118,7 @@
     "ts-node": "^8.0.3",
     "tslint": "^5.13.1",
     "tslint-microsoft-contrib": "^6.1.0",
-    "typescript": "^3.3.3333"
+    "typescript": "^3.3.3333",
+    "validate-commit-msg": "^2.14.0"
   }
 }
