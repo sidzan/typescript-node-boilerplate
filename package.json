@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/Microsoft/TypeScript-Node-Starter"
   },
-  "author": "Bowden Kelly",
+  "author": "Sijan <sijanshrestha2@gmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "npm run serve",
