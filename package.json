@@ -99,7 +99,7 @@
     "@types/mongoose": "^5.3.21",
     "@types/morgan": "^1.7.35",
     "@types/node": "^11.11.0",
-    "@types/nodemailer": "^4.6.6",
+    "@types/nodemailer": "^6.2.2",
     "@types/passport": "^1.0.0",
     "@types/passport-facebook": "^2.1.8",
     "@types/passport-local": "^1.0.33",
