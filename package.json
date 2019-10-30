@@ -96,7 +96,7 @@
     "@types/lodash": "^4.14.122",
     "@types/lusca": "^1.5.0",
     "@types/mongodb": "^3.1.22",
-    "@types/mongoose": "^5.3.21",
+    "@types/mongoose": "^5.5.28",
     "@types/morgan": "^1.7.35",
     "@types/node": "^11.11.0",
     "@types/nodemailer": "^4.6.6",
