@@ -83,7 +83,7 @@
   "devDependencies": {
     "@types/async": "^2.4.1",
     "@types/bcrypt-nodejs": "^0.0.30",
-    "@types/bluebird": "^3.5.26",
+    "@types/bluebird": "^3.5.29",
     "@types/body-parser": "^1.17.0",
     "@types/compression": "^0.0.36",
     "@types/connect-mongo": "^0.0.41",
